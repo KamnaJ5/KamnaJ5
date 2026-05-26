@@ -5,6 +5,15 @@
 
 <br/>
 
+<!-- Typing Animation -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&width=500&lines=Exploring+tech+one+commit+at+a+time+🚀;Open+source+contributor+💻;GSoC+Org+Finder+%40+GSSoC+2026+✨;Always+up+for+a+new+challenge+🎯)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
 <!-- About Me -->
 <div align="center">
 
@@ -18,6 +27,17 @@
 </div>
 
 <br/>
+
+---
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KamnaJ5&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -55,6 +75,17 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamnaJ5&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+---
+
+<!-- Activity Graph -->
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Kamna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KamnaJ5&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
